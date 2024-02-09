@@ -1,0 +1,425 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.2520357,
+                    12.9827838,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Aquaconnect",
+                "styleUrl": "#icon-1573-7CB342-nodesc",
+                "styleHash": "4fb1005d",
+                "styleMapHash": {
+                    "normal": "#icon-1573-7CB342-nodesc-normal",
+                    "highlight": "#icon-1573-7CB342-nodesc-highlight"
+                },
+                "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    72.98791,
+                    19.2094219,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "SuperBottoms- India's No.1 Sustainable brand for Mom& Baby essentials",
+                "styleUrl": "#icon-1742-01579B-nodesc",
+                "styleHash": "455cc47b",
+                "styleMapHash": {
+                    "normal": "#icon-1742-01579B-nodesc-normal",
+                    "highlight": "#icon-1742-01579B-nodesc-highlight"
+                },
+                "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.6926557,
+                    12.937326,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "moneyview",
+                "styleUrl": "#icon-1756-E65100-nodesc",
+                "styleHash": "-5703f186",
+                "styleMapHash": {
+                    "normal": "#icon-1756-E65100-nodesc-normal",
+                    "highlight": "#icon-1756-E65100-nodesc-highlight"
+                },
+                "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.0382407,
+                    28.4197341,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Seeds Fincap Pvt Ltd",
+                "styleUrl": "#icon-1546-E65100-nodesc",
+                "styleHash": "-4f524105",
+                "styleMapHash": {
+                    "normal": "#icon-1546-E65100-nodesc-normal",
+                    "highlight": "#icon-1546-E65100-nodesc-highlight"
+                },
+                "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.2587094,
+                    13.0400361,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "GrowXCD Finance",
+                "styleUrl": "#icon-1546-E65100-nodesc",
+                "styleHash": "-4f524105",
+                "styleMapHash": {
+                    "normal": "#icon-1546-E65100-nodesc-normal",
+                    "highlight": "#icon-1546-E65100-nodesc-highlight"
+                },
+                "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.0038964,
+                    28.4177469,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "WIngreens Farms Pvt Ltd",
+                "styleUrl": "#icon-1578-7CB342-nodesc",
+                "styleHash": "1cf18ff8",
+                "styleMapHash": {
+                    "normal": "#icon-1578-7CB342-nodesc-normal",
+                    "highlight": "#icon-1578-7CB342-nodesc-highlight"
+                },
+                "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.6170682,
+                    12.9477654,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Akshayakalpa Farms And Foods Private Limited",
+                "styleUrl": "#icon-1553-7CB342-nodesc",
+                "styleHash": "2b5d3edb",
+                "styleMapHash": {
+                    "normal": "#icon-1553-7CB342-nodesc-normal",
+                    "highlight": "#icon-1553-7CB342-nodesc-highlight"
+                },
+                "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.0057538,
+                    11.0006758,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Monsoon Harvest HQ",
+                "styleUrl": "#icon-1578-7CB342-nodesc",
+                "styleHash": "1cf18ff8",
+                "styleMapHash": {
+                    "normal": "#icon-1578-7CB342-nodesc-normal",
+                    "highlight": "#icon-1578-7CB342-nodesc-highlight"
+                },
+                "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.041012,
+                    28.4484256,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "RenewBuy | Corporate Office",
+                "styleUrl": "#icon-1753-E65100-nodesc",
+                "styleHash": "6108851d",
+                "styleMapHash": {
+                    "normal": "#icon-1753-E65100-nodesc-normal",
+                    "highlight": "#icon-1753-E65100-nodesc-highlight"
+                },
+                "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.0844418,
+                    28.4988931,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Usekiwi Infolabs",
+                "styleUrl": "#icon-1753-E65100-nodesc",
+                "styleHash": "6108851d",
+                "styleMapHash": {
+                    "normal": "#icon-1753-E65100-nodesc-normal",
+                    "highlight": "#icon-1753-E65100-nodesc-highlight"
+                },
+                "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.1015282,
+                    12.9272051,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "VERITAS FINANCE",
+                "styleUrl": "#icon-1555-E65100-nodesc",
+                "styleHash": "-7fcee363",
+                "styleMapHash": {
+                    "normal": "#icon-1555-E65100-nodesc-normal",
+                    "highlight": "#icon-1555-E65100-nodesc-highlight"
+                },
+                "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    72.8814017,
+                    19.1084115,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Mintifi",
+                "styleUrl": "#icon-1555-E65100-nodesc",
+                "styleHash": "-7fcee363",
+                "styleMapHash": {
+                    "normal": "#icon-1555-E65100-nodesc-normal",
+                    "highlight": "#icon-1555-E65100-nodesc-highlight"
+                },
+                "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    82.8838032,
+                    25.4121841,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Utkarsh Small Finance Bank - Registered & Head Office (Utkarsh Tower)",
+                "styleUrl": "#icon-1756-E65100-nodesc",
+                "styleHash": "-5703f186",
+                "styleMapHash": {
+                    "normal": "#icon-1756-E65100-nodesc-normal",
+                    "highlight": "#icon-1756-E65100-nodesc-highlight"
+                },
+                "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.0954558,
+                    28.4146107,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Ummeed Housing Finance Pvt. Ltd.",
+                "styleUrl": "#icon-1603-E65100-nodesc",
+                "styleHash": "-2cdb1607",
+                "styleMapHash": {
+                    "normal": "#icon-1603-E65100-nodesc-normal",
+                    "highlight": "#icon-1603-E65100-nodesc-highlight"
+                },
+                "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    85.3010202,
+                    23.350294,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Hr Food Processing Private Limited",
+                "styleUrl": "#icon-1553-7CB342-nodesc",
+                "styleHash": "2b5d3edb",
+                "styleMapHash": {
+                    "normal": "#icon-1553-7CB342-nodesc-normal",
+                    "highlight": "#icon-1553-7CB342-nodesc-highlight"
+                },
+                "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    73.0387015,
+                    19.0146962,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Suryoday Small Finance Bank Ltd-Corporate Office",
+                "styleUrl": "#icon-1756-E65100-nodesc",
+                "styleHash": "-5703f186",
+                "styleMapHash": {
+                    "normal": "#icon-1756-E65100-nodesc-normal",
+                    "highlight": "#icon-1756-E65100-nodesc-highlight"
+                },
+                "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.2178425,
+                    13.0885739,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Dr Mohans Clinic",
+                "styleUrl": "#icon-1624-9C27B0-nodesc",
+                "styleHash": "-e68466",
+                "styleMapHash": {
+                    "normal": "#icon-1624-9C27B0-nodesc-normal",
+                    "highlight": "#icon-1624-9C27B0-nodesc-highlight"
+                },
+                "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.2530143,
+                    13.0365344,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Lok Capital",
+                "styleUrl": "#icon-1899-DB4436-nodesc",
+                "styleHash": "39590fa4",
+                "styleMapHash": {
+                    "normal": "#icon-1899-DB4436-nodesc-normal",
+                    "highlight": "#icon-1899-DB4436-nodesc-highlight"
+                },
+                "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.6328922,
+                    12.9289492,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "WeWork",
+                "styleUrl": "#icon-1899-DB4436-nodesc",
+                "styleHash": "39590fa4",
+                "styleMapHash": {
+                    "normal": "#icon-1899-DB4436-nodesc-normal",
+                    "highlight": "#icon-1899-DB4436-nodesc-highlight"
+                },
+                "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.0763328,
+                    28.4781663,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Time Tower",
+                "styleUrl": "#icon-1899-DB4436-nodesc",
+                "styleHash": "39590fa4",
+                "styleMapHash": {
+                    "normal": "#icon-1899-DB4436-nodesc-normal",
+                    "highlight": "#icon-1899-DB4436-nodesc-highlight"
+                },
+                "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+            }
+        }
+    ]
+}
